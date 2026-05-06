@@ -78,7 +78,7 @@ I’m particularly interested in:
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [*(add your link here)*](https://www.linkedin.com/in/manoharijayachandran/)
+- 💼 LinkedIn: https://www.linkedin.com/in/manoharijayachandran/
 
 ---
 
