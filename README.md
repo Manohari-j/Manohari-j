@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Manohari Jayachandran
 
-💻 Senior Software Engineer | Cloud & Backend Systems | .NET | Azure  
-📍 Illinois, USA  
-🔄 Currently relaunching my career and actively seeking opportunities  
+💻 Software Engineer | Azure Cloud & Integration Engineer | C#/.NET | REST APIs
+📍 Illinois, USA
+🔗 [TechStack Blog](https://www.techstackblog.com/) | [LinkedIn](https://www.linkedin.com/in/manohari-jayachandran-195799261/)
 
 ---
 
 ## 🚀 About Me
 
-I’m a software engineer with strong experience in building **scalable backend systems, cloud integrations, and reliable applications** using C#, .NET, and Azure.
+I'm a Software Engineer with hands-on experience designing and building **cloud-native integration platforms, REST APIs, and scalable backend systems** using C#, .NET, and Microsoft Azure.
 
-After relocating to the U.S., I’ve been actively working on sharpening my skills, building projects, and preparing for roles where I can contribute to **real-world, production-grade systems**.
+Most recently, I led delivery of a real-time, bidirectional integration platform connecting Salesforce and ServiceNow at enterprise scale — using Azure Service Bus, Logic Apps, API Management, and Function Apps. I'm passionate about building reliable, production-grade systems and continuously sharpening my skills through hands-on projects, technical writing, and active engagement with modern engineering practices, including AI-assisted development workflows.
 
-I’m particularly interested in:
+I'm currently exploring new opportunities in:
+- Azure cloud engineering & integration architecture
 - Backend & distributed systems
-- Cloud-native development (Azure/AWS)
-- System design & performance optimization
-- Real-time and data-driven applications
+- REST API design & microservices
+- DevOps, CI/CD & observability
 
 ---
 
@@ -24,64 +24,65 @@ I’m particularly interested in:
 
 **Languages & Frameworks**
 - C#, .NET Core / .NET 6+
+- Python, JavaScript
 - C/C++ (systems-level experience)
-- JavaScript / TypeScript (working knowledge)
 
-**Cloud & Tools**
-- Microsoft Azure (App Services, Functions, Storage, DevOps)
-- AWS (Lambda, S3, basics)
-- Git, CI/CD pipelines
+**Cloud & Integration (Azure)**
+- Azure Function Apps, Logic Apps, Service Bus, API Management
+- Azure Key Vault, Cosmos DB, Azure Monitor, App Insights
+- AWS (Cloud Practitioner certified)
+
+**DevOps & Tools**
+- Azure DevOps, Git, GitHub Actions, CI/CD Pipelines
+- Power Automate, RPA
 
 **Databases**
-- SQL Server, Azure SQL
-- Basic NoSQL exposure
+- SQL Server, Cosmos DB (NoSQL), MongoDB
 
 **Concepts**
-- System Design
-- Microservices Architecture
-- REST APIs
-- Performance Optimization
-- Debugging & Troubleshooting
+- Microservices & event-driven architecture
+- REST API design
+- System observability & monitoring
+- AI-assisted development workflows
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
+
+### 🌐 [TechStackBlog](https://www.techstackblog.com/)
+A full-stack cloud application demonstrating end-to-end engineering and DevOps practices.
+
+- Built with **ASP.NET Core, C#, and Azure SQL** on the backend; HTML/CSS/JavaScript on the frontend
+- **CI/CD pipeline** via GitHub Actions, deployed to **Azure Static Web Apps**
+- Demonstrates full lifecycle development — from API design to cloud deployment and automated releases
+
+🔗 Live: [techstackblog.com](https://www.techstackblog.com/)
+💻 Source: [github.com/Manohari-j/TechStackBlog](https://github.com/Manohari-j/TechStackBlog/tree/main/TechBlog)
 
 ### 📊 Subaward Spreadsheet Processor
-- Built a .NET console app to process real-world financial spreadsheets
+A .NET console application built to process real-world financial spreadsheets.
+
 - Extracts structured data from unstructured Excel formats
-- Handles edge cases and dynamic row parsing
-- Includes unit testing and clean architecture
+- Handles dynamic row parsing and edge cases
+- Includes unit testing and clean architecture principles
 
-👉 *(More projects coming — actively building and improving)*
-
----
-
-## 📈 What I'm Focused On Right Now
-
-- Strengthening **system design skills**
-- Building **production-quality projects**
-- Improving **problem-solving for interviews**
-- Exploring **AI-assisted development workflows**
-- Preparing for **backend and cloud engineering roles**
+*(More projects in progress — actively building.)*
 
 ---
 
-## 💡 What Sets Me Apart
+## 💡 What I Bring
 
-- Strong debugging and problem-solving mindset  
-- Ability to work across **systems, backend, and cloud layers**  
-- Focus on writing **clean, maintainable, production-ready code**  
-- Resilient and persistent — actively navigating a challenging job market  
+- Proven experience designing **enterprise-scale Azure integration platforms**
+- Strong foundation in **REST API development, microservices, and event-driven systems**
+- A track record of **mentoring engineers** and driving cross-functional collaboration
+- Active technical writer — sharing what I learn through blog posts and project work
+- A persistent, detail-oriented approach to solving complex engineering problems
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/manoharijayachandran/
+💼 [LinkedIn](https://www.linkedin.com/in/manohari-jayachandran-195799261/)
+📝 [TechStack Blog](https://www.techstackblog.com/)
 
----
-
-
-
-I’m currently in a **career relaunch phase** and highly motivated to contribute, learn, and grow in a strong engineering team. If you're hiring for backend, cloud, or systems roles — I’d love to connect.
+I'm actively exploring Azure cloud engineering, integration, and backend roles — feel free to reach out if you're hiring or just want to talk tech!
